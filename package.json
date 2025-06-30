@@ -1,0 +1,25 @@
+{
+  "name": "githubcli",
+  "version": "1.0.0",
+  "description": "This is my first backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedsuleiman11/GitHubCLI.git"
+  },
+  "author": "Syed Suleiman Hussain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedsuleiman11/GitHubCLI/issues"
+  },
+  "homepage": "https://github.com/syedsuleiman11/GitHubCLI#readme",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.1",
+    "readline-sync": "^1.4.10"
+  }
+}
